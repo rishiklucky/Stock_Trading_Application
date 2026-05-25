@@ -1,0 +1,15 @@
+/* Reusing same structure as Login */
+
+@import "./Login.css";
+
+.success-msg {
+  color: green;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.error-msg {
+  color: red;
+  margin-top: 15px;
+  text-align: center;
+}

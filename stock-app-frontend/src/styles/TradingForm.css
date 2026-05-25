@@ -1,0 +1,80 @@
+.trading-container {
+  width: 400px;
+  margin: 50px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.mode-toggle {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.mode-toggle button {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.active-buy {
+  background: #22c55e;
+  color: white;
+}
+
+.active-sell {
+  background: #ef4444;
+  color: white;
+}
+
+.trading-form input {
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  background: #1e73be;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.success-msg {
+  color: green;
+  margin-top: 10px;
+}
+
+.error-msg {
+  color: red;
+  margin-top: 10px;
+}
+
+.user-info {
+  background: #f0f9ff;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  border-left: 4px solid #1e73be;
+}
+
+.user-info p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #333;
+}
+
+.user-info strong {
+  color: #1e73be;
+}
