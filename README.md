@@ -43,16 +43,4 @@ The repository is organized as a two-part application:
 - Chart.js / react-chartjs-2
 - Springdoc OpenAPI / Swagger UI
 
-## What makes it impressive to recruiters
 
-- Realistic domain: stock trading with portfolio and transaction workflows
-- Full-stack implementation: backend DB logic and frontend UI working together
-- Clean separation of concerns: API-first backend with a dedicated React frontend
-- Data visualization: charts that help users understand portfolio allocation
-- API documentation support via Swagger
-
-## Repository link
-
-This project is hosted at:
-
-`https://github.com/rishiklucky/Stock_Trading_Application`
